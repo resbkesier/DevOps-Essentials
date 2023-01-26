@@ -1,0 +1,1 @@
+# Monitoramento e garantia de disponibilidade
